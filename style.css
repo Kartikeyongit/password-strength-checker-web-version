@@ -1,0 +1,6 @@
+body{display:flex;justify-content:center;align-items:center;height:100vh;background:#111;font-family:sans-serif}
+.box{background:#222;padding:30px;border-radius:10px;text-align:center;width:300px}
+.box h2{color:#fff}
+.box input{width:100%;padding:10px;margin:10px 0;border:none;border-radius:5px}
+.box button{width:100%;padding:10px;border:none;border-radius:5px;background:#0af;color:#fff;font-size:16px;cursor:pointer}
+#result{color:#fff;margin-top:15px;font-size:18px}
